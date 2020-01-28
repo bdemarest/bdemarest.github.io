@@ -1,5 +1,8 @@
-#' Test r script.
+#'---
+#'output: github_document
+#'---
 
+#' Test r script.
 
 library(ggplot2)
 
