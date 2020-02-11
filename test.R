@@ -2,7 +2,7 @@
 #'output: github_document
 #'---
 
-#' Test r script.
+#' Test r *script*.
 
 library(ggplot2)
 
